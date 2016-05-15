@@ -1,0 +1,6 @@
+E:\_CodeOnline\Ruanmou.NET\NoobStudy\A.HelloWorld\bin\Debug\A.HelloWorld.exe.config
+E:\_CodeOnline\Ruanmou.NET\NoobStudy\A.HelloWorld\bin\Debug\A.HelloWorld.exe
+E:\_CodeOnline\Ruanmou.NET\NoobStudy\A.HelloWorld\bin\Debug\A.HelloWorld.pdb
+E:\_CodeOnline\Ruanmou.NET\NoobStudy\A.HelloWorld\obj\Debug\A.HelloWorld.csprojResolveAssemblyReference.cache
+E:\_CodeOnline\Ruanmou.NET\NoobStudy\A.HelloWorld\obj\Debug\A.HelloWorld.exe
+E:\_CodeOnline\Ruanmou.NET\NoobStudy\A.HelloWorld\obj\Debug\A.HelloWorld.pdb
